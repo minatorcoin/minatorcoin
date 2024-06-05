@@ -1,14 +1,8 @@
 <h1 align="center">
-<img src="https://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png" alt="Dogecoin" width="300"/>
+<img src="https://github.com/minatorcoin/minatorcoin/blob/master/src/qt/res/icons/wallet_bgcoin.png" alt="Minator" width="300"/>
 <br/><br/>
 Minatorcoin Core [Minator, M]  
 </h1>
-
-<div align="center">
-
-[![Minator](https://github.com/minatorcoin/minatorcoin/blob/master/src/qt/res/icons/wallet_bgcoin.png)](https://minator.org)
-
-</div>
 
 Select language: EN | [CN](./README_zh_CN.md) | [PT](./README_pt_BR.md) | [FA](./README_fa_IR.md) | [VI](./README_vi_VN.md)
 
