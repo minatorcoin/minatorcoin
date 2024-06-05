@@ -6,8 +6,7 @@ Minatorcoin Core [Minator, M]
 
 <div align="center">
 
-[![DogecoinBadge](https://img.shields.io/badge/Doge-Coin-yellow.svg)](https://dogecoin.com)
-[![MuchWow](https://img.shields.io/badge/Much-Wow-yellow.svg)](https://dogecoin.com)
+[![Minator](https://github.com/minatorcoin/minatorcoin/blob/master/src/qt/res/icons/wallet_bgcoin.png)](https://minator.org)
 
 </div>
 
@@ -18,7 +17,7 @@ Minatorcoin is a community-driven cryptocurrency that was inspired by a Shiba In
 For information about the default fees used on the Dogecoin network, please
 refer to the [fee recommendation](doc/fee-recommendation.md).
 
-**Website:** [dogecoin.com](https://dogecoin.com)
+**Website:** [minator.org](https://minator.org)
 
 ## Usage 💻
 
